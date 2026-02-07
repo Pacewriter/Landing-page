@@ -26,7 +26,7 @@ h1 {
 
 .skills {
     background-color: white;
-    margin: auto;
+    margin-bottom: 3%;
 }
 
 .skillsh1 {
@@ -35,7 +35,7 @@ h1 {
 }
 
 .webdev{
-    margin-bottom: 20px;
+    margin-bottom: 3%;
 }
 
 .skill-card {
@@ -48,6 +48,7 @@ h1 {
 .skills-img {
     border: 4px solid black;
     border-radius: 8px;
+    margin-bottom: 3%;
 }
 
 
@@ -56,13 +57,14 @@ h1 {
     background-color: white;
 }
 
-.Contact h2,
-.Contact h5 {
+.Contact h2 {
     color: rgb(135, 206, 235);
+    margin-bottom: 3%;
 }
 
 
 
 .footer-container {
     background-color: rgb(135, 206, 235);
+    margin-top: 3%;
 }

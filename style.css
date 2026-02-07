@@ -1,88 +1,68 @@
-.Header-container{
+.Header-container {
     background-color: rgb(135, 206, 235);
-    color: white;
-    width: 1200px;
-    height: 485px;
-    margin-left: 80px;
 }
 
-.Jumbotron-img{
-    margin-top: 20px;
-    border-radius: 50%;
-}
 
-h1{
-    color: white;
+
+h1 {
     font-style: italic;
     font-family: cursive;
 }
 
-.Jumbotron-container{
-    width: 1200px;
-    height: 450px;
+
+.Jumbotron-container {
     background-color: white;
-    margin-left: 80px;
 }
 
-.jheading{
-    margin-top: 20px;
+.jheading {
     color: rgb(135, 206, 235);
 }
 
-.jparagraph{
-    margin-top: 30px;
+.jparagraph {
+    max-width: 600px;
+    margin: auto;
 }
 
-.skills{
-    display: flex;
-    width: 1200px;
-    height: 60vh;
-    margin-left: 80px;
-    flex-direction: column;
+
+.skills {
     background-color: white;
+    margin: auto;
+}
+
+.skillsh1 {
+    color: rgb(135, 206, 235);
+    margin: 20px;
 }
 
 .webdev{
-    width: 600px;
     margin-bottom: 20px;
-    margin-left: 350px;
 }
 
-.writing{
-    width: 600px;
-    margin-left: 350px;
+.skill-card {
+    background: white;
+    border-radius: 10px;
 }
 
-.skillsh1{
-    margin: 30px;
+
+
+.skills-img {
+    border: 4px solid black;
+    border-radius: 8px;
 }
 
-.skills-img{
-    margin: 10px;
-    border: 5px solid black;
-    float: left;
-}
 
-.Contact{
-    text-align: center;
-    margin-bottom: 30px;
+
+.Contact {
     background-color: white;
-    width: 1200px;
-    margin-left: 80px;
 }
 
-.footer-container{
+.Contact h2,
+.Contact h5 {
+    color: rgb(135, 206, 235);
+}
+
+
+
+.footer-container {
     background-color: rgb(135, 206, 235);
-    width: 1200px;
-    margin-left: 80px;
 }
-
-h2, h3{
-    color: rgb(135, 206, 235);
-}
-
-.skillsh1{
-    color: rgb(135, 206, 235);
-    text-align: center;
-}
-
